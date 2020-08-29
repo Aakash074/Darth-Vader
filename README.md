@@ -8,7 +8,7 @@
 
 
 
-# Hostile Takeover
+# Darth Vader
 - This Ransomware is editable and you can change your own amount and bitcoin address.
 
 Ransomware will lock all files on the computer and unlock them after payment.
