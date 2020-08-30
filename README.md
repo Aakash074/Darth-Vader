@@ -1,4 +1,4 @@
-
+<img align="right" alt="GIF" src="./Resources/darth.png" alt="CybSec NITW" width="250" />
 
 # DISCLAIMER
 **`Darth Vader` is for education/research purposes only. The author takes NO responsibility and/or liability for how you choose to use any of the tools/source code/any files provided.
