@@ -22,3 +22,5 @@ Victim will have no choice but to contact you via email for payment. This gives 
 With this ransomware you will also have the option to have it USB auto installable with time frame. Meaning, you can install it on a portable USB and it will automatically boot and start encrypting files after a give time frame of 2 hours or 2 days (depending on your preference).
 
 Requirements : C#, Windows.
+
+--Groot
